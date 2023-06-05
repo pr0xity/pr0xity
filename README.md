@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 <a margin="10" href="https://svelte.dev" target="_blank">
   <img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte">
 </a>
+<a margin="10" href="https://vuejs.org/" target="_blank">
+  <img margin="10px" height="40" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" alt="vue.js">
+</a>
 <a margin="10" href="https://www.python.org/" target="_blank">
   <img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python">
 </a>
